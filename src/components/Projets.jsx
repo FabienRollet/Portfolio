@@ -1,6 +1,6 @@
 export default function Projets() {
   return (
-    <section className="bg-primary-color p-3">
+    <section className="bg-primary-color p-3 projetitle">
       <h2>Mes projets !</h2>
       <article className="projet">
         <h3>
@@ -9,8 +9,8 @@ export default function Projets() {
           </a>
         </h3>
         <p>
-          Projet en équipe de 2 semaines en HTML /CSS/JS, basé sur le jeu Cookie
-          clicker.
+          Projet en équipe de 2 semaines en HTML, CSS et JS, basé sur le jeu
+          Cookie clicker.
         </p>
         <img src="../public/Croissant.png" alt="croissantLogo" />
       </article>
@@ -28,7 +28,7 @@ export default function Projets() {
       </article>
       <article className="projet">
         <h3>
-          <a href="" target="_blank">
+          <a href="https://senior-sanctuary.webflow.io/" target="_blank">
             Senior Sanctuary
           </a>
         </h3>

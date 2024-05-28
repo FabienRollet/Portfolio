@@ -9,9 +9,9 @@ export default function App() {
     <body className="text-text-color">
       <Home />
       <main>
-      <Mémento />
-      <Projets />
-      <TechnoCV />
+        <Mémento />
+        <Projets />
+        <TechnoCV />
       </main>
       <Contact />
     </body>

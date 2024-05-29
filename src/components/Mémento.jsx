@@ -10,7 +10,7 @@ export default function Mémento() {
         Je suis à la recherche d’une équipe au sein de laquelle je pourrai
         m’investir et qui me permettra de progresser en tant que développeur.
       </p>
-      <img src="../public/profil.jpg" alt="" />
+      <img src="../profil.jpg" alt="" />
     </section>
   );
 }

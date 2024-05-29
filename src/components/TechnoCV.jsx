@@ -6,19 +6,19 @@ export default function TechnoCV() {
         <h3>Front-end</h3>
         <ul>
           <article>
-            <img src="../public/react.png" alt="" />
+            <img src="../react.png" alt="" />
             <li>React</li>
           </article>
           <article>
-            <img src="../public/js.png" alt="" />
+            <img src="../js.png" alt="" />
             <li>JavaScript</li>
           </article>
           <article>
-            <img src="../public/htmlcss.png" alt="" />
+            <img src="../htmlcss.png" alt="" />
             <li>Html/CSS</li>
           </article>
           <article>
-            <img src="../public/tailwind.png" alt="" />
+            <img src="../tailwind.png" alt="" />
             <li>Tailwind</li>
           </article>
         </ul>
@@ -27,15 +27,15 @@ export default function TechnoCV() {
         <h3>Back-end</h3>
         <ul>
           <article>
-            <img src="../public/express.png" alt="" />
+            <img src="../express.png" alt="" />
             <li>ExpressJs</li>
           </article>
           <article>
-            <img src="../public/mysql.png" alt="" />
+            <img src="../mysql.png" alt="" />
             <li>MySQL</li>
           </article>
           <article>
-            <img src="../public/node.png" alt="" />
+            <img src="../node.png" alt="" />
             <li>Node.js</li>
           </article>
         </ul>
@@ -51,7 +51,7 @@ export default function TechnoCV() {
           <li>Méthodique</li>
         </ul>
       </section>
-      <a href="../public/CV DEV.pdf" download="CV Rollet Fabien" className="cv">
+      <a href="../CV DEV.pdf" download="CV Rollet Fabien" className="cv">
         Téléchargez mon CV !
       </a>
     </section>

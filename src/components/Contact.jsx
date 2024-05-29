@@ -53,14 +53,14 @@ export default function Contact() {
       <section className="link">
         <h3>Mes réseaux</h3>
         <a href="https://github.com/FabienRollet" target="_blank">
-          <img src="../public/github.svg" alt="logo" />
+          <img src="../github.svg" alt="logo" />
           <p>Github</p>
         </a>
         <a
           href="https://www.linkedin.com/in/fabien-rollet-ab69392a7/"
           target="_blank"
         >
-          <img src="../public/linkedin.svg" alt="logo" />
+          <img src="../linkedin.svg" alt="logo" />
           <p>Linkedin</p>
         </a>
       </section>

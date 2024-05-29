@@ -12,7 +12,7 @@ export default function Projets() {
           Projet en équipe de 2 semaines en HTML, CSS et JS, basé sur le jeu
           Cookie clicker.
         </p>
-        <img src="../public/Croissant.png" alt="croissantLogo" />
+        <img src="../Croissant.png" alt="croissantLogo" />
       </article>
       <article className="projet">
         <h3>
@@ -24,7 +24,7 @@ export default function Projets() {
           Projet en équipe de 3 semaines en React et SCSS avec utilisation d’une
           API.
         </p>
-        <img src="../public/nebula.jpg" alt="NebulaLogo" />
+        <img src="../nebula.jpg" alt="NebulaLogo" />
       </article>
       <article className="projet">
         <h3>
@@ -36,7 +36,7 @@ export default function Projets() {
           “Hackathon” de 48h pour créer un projet en collaboration avec une
           équipe de data.
         </p>
-        <img src="../public/senior.svg" alt="SeniorLogo" />
+        <img src="../senior.svg" alt="SeniorLogo" />
       </article>
       {/* <article className="projet">
         <h3>Hackathon</h3>

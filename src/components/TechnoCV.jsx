@@ -51,7 +51,7 @@ export default function TechnoCV() {
           <li>Méthodique</li>
         </ul>
       </section>
-      <a href="../CV DEV.pdf" download="CV Rollet Fabien" className="cv">
+      <a href="../CV Rollet Fabien.pdf" download="CV Rollet Fabien" className="cv">
         Téléchargez mon CV !
       </a>
     </section>

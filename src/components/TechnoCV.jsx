@@ -1,7 +1,7 @@
 export default function TechnoCV() {
   return (
     <section className="bg-secondary-color p-8 techno">
-      <h2 className="technotitle">Technologie & CV</h2>
+      <h2 className="technotitle">Technologies & CV</h2>
       <section className="front">
         <h3>Front-end</h3>
         <ul>

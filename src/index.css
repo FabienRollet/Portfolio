@@ -137,6 +137,11 @@ p {
   border: #373741 solid 2px;
   border-radius: 50px;
   margin: auto;
+  background-color: var(--primary-color);
+}
+.cv:hover{
+  transition-duration: 0.5s;
+  background-color: #ffeab0;
 }
 
 footer {

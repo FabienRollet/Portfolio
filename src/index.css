@@ -161,7 +161,7 @@ label {
 #email {
   height: 2rem;
   padding: 1rem;
-  border-radius: 20px;
+  border-radius: 40px;
   background-color: var(--secondary-color);
   margin-bottom: 1rem;
 }
@@ -338,6 +338,7 @@ label {
   #email {
     width: 80%;
     border-color: red;
+    height: 3rem;
   }
   .message {
     grid-row-start: 2/4;

@@ -33,6 +33,7 @@ p {
 }
 .memento > img {
   display: none;
+  transform: rotate(-10deg);
 }
 
 .projetitle > h2 {
@@ -54,6 +55,7 @@ p {
   height: 0.5rem;
   text-decoration: underline;
   width: 110%;
+  color: rgb(59, 107, 221);
 }
 .projet > p {
   grid-row: 2/3;
@@ -267,6 +269,8 @@ label {
     grid-row: 1/2;
     grid-column: 1/2;
     padding-top: 3rem;
+    position: relative;
+    left: -10px;
   }
   .projet > p {
     grid-row: 2/3;

@@ -38,21 +38,24 @@ export default function Projets() {
         </p>
         <img src="../senior.svg" alt="SeniorLogo" />
       </article>
-      {/* <article className="projet">
-        <h3>Hackathon</h3>
+      <article className="projet">
+        <h3><a href="" target="_blank">
+        FitEatOrigin
+          </a></h3>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+          Projet de 2 mois FullStack en typescript et tailwind. En cours de création, disponible fin juillet.
         </p>
-        <img src="" alt="HackathonLogo" />
+        <img src="../lock.png" alt="lock" />
       </article>
       <article className="projet">
-        <h3>P3</h3>
+      <h3><a href="" target="_blank">
+        Hackathon
+          </a></h3>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum ipsa
-          hic praesentium et.
+          Hackathon de 72h avec data et designer, sujet commun a toute les promos de France pour un client. Début le 03/07.
         </p>
-        <img src="" alt="P3Logo" />
-      </article> */}
+        <img src="lock.png" alt="lock" />
+      </article>
     </section>
   );
 }

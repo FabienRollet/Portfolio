@@ -53,11 +53,12 @@ p {
   padding-top: 0.5rem;
   height: 0.5rem;
   text-decoration: underline;
+  width: 110%;
 }
 .projet > p {
   grid-row: 2/3;
   grid-column: 1/2;
-  line-height: 1rem;
+  line-height: 0.8rem;
 }
 .projet > img {
   position: relative;

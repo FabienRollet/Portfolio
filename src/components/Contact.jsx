@@ -42,11 +42,11 @@ export default function Contact() {
       <form id="contact-form" onSubmit={handleSubmit}>
         <section className="email">
           <label htmlFor="email">Adresse email :</label>
-          <input type="email" id="email" placeholder="Tapez ici..." required />
+          <input type="email" id="email" placeholder="exemple@domain.com" required />
         </section>
         <section className="message">
           <label htmlFor="message">Message :</label>
-          <textarea id="message" placeholder="Tapez ici..." required />
+          <textarea id="message" placeholder="Commencez à écrire ici ..." required />
         </section>
         <input type="submit" className="send" />
       </form>

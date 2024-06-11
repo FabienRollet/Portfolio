@@ -34,7 +34,7 @@ export default function Projets() {
       </a>
       <a href="" target="_blank">
         <article className="projet">
-          <h3>FitEatOrigin</h3>
+          <h3>SweatStream</h3>
           <p>
             Projet de 2 mois FullStack en typescript et tailwind. En cours de
             création, disponible fin juillet.

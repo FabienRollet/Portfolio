@@ -2,7 +2,7 @@ export default function Projets() {
   return (
     <section className="bg-primary-color p-3 projetitle">
       <h2>Mes projets !</h2>
-      <a href="" target="_blank">
+      <a href="https://fabienrollet.github.io/P1_clicker.github.io/" target="_blank">
         <article className="projet">
           <h3>Croissant clicker</h3>
           <p>

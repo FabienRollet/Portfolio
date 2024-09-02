@@ -32,24 +32,23 @@ export default function Projets() {
           <img src="../senior.svg" alt="SeniorLogo" />
         </article>
       </a>
-      <a href="" target="_blank">
+      <a href="https://github.com/WildCodeSchool-2024-02/JS-bdx-0224-P3-Origin_digital" target="_blank">
         <article className="projet">
           <h3>SweatStream</h3>
           <p>
-            Projet de 2 mois FullStack en typescript et tailwind. En cours de
-            création, disponible fin juillet.
+            Projet de 6 semaine FullStack avec tailwindCSS et MySQL.
           </p>
-          <img src="../lock.png" alt="lock" className="lock" />
+          <img src="../SweatStream.png" alt="SweatStreamLogo" />
         </article>
       </a>
-      <a href="" target="_blank">
+      <a href="https://github.com/Phil-BENISSAN/0224-hackathon-team2-bis" target="_blank">
         <article className="projet">
           <h3>Hackathon</h3>
           <p>
-            Hackathon de 72h avec data et designer, sujet commun a toute les
-            promos de France pour un client. Début le 03/07.
+            Hackathon de 72h avec data et designer, sujet commun à toutes les
+            promos de France pour un client. Thème de l'inclusivité dans l'emploi.
           </p>
-          <img src="lock.png" alt="lock" className="lock" />
+          <img src="https://cdn-icons-png.freepik.com/512/3885/3885388.png" alt="HackathonLogo" />
         </article>
       </a>
     </section>

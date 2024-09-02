@@ -38,7 +38,7 @@ export default function Projets() {
           <p>
             Projet de 6 semaine FullStack avec tailwindCSS et MySQL.
           </p>
-          <img src="../SweatStream.png" alt="SweatStreamLogo" />
+          <img src="../banner.jpg" alt="SweatStreamLogo" />
         </article>
       </a>
       <a href="https://github.com/Phil-BENISSAN/0224-hackathon-team2-bis" target="_blank">

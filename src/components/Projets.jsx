@@ -52,11 +52,11 @@ export default function Projets() {
         </article>
       </a>
       <a href="https://les-devs-juniors.vercel.app/" target="_blank">
-        <article className="projet">
+        <article className="projet lock">
           <h3>Les devs juniors</h3>
           <p>
            Collectif de jeune développeurs qui propose la création de site
-           vitrine pour des particuliers. Applications en Next.js et Typescript.
+           vitrine pour particuliers. Applications en Next.js et Typescript.
           </p>
           <img src="https://les-devs-juniors.vercel.app/images/bachelor-cap.png" alt="LesdevsJuniorsLogo" />
         </article>

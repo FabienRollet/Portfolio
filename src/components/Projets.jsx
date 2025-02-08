@@ -64,7 +64,7 @@ export default function Projets() {
           <p>
            Réalisation autonome pour un client d’un site vitrine en Next.js avec une interface administrateur.
           </p>
-          <img className="lock" src="../EducagriffLogo.png" alt="EducagriffLogo" />
+          <img src="../EducagriffLogo.png" alt="EducagriffLogo" />
         </article>
       </a>
     </section>

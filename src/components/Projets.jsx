@@ -45,8 +45,7 @@ export default function Projets() {
         <article className="projet">
           <h3>Hackathon</h3>
           <p>
-            Hackathon de 72h avec data et designer, sujet commun à toutes les
-            promos de France pour un client. Thème de l'inclusivité dans l'emploi.
+            Hackathon de 72h avec data et designer, sujet commun à toutes les promos de France pour un client.
           </p>
           <img src="https://cdn-icons-png.freepik.com/512/3885/3885388.png" alt="HackathonLogo" />
         </article>
@@ -55,10 +54,17 @@ export default function Projets() {
         <article className="projet">
           <h3>Les devs juniors</h3>
           <p>
-           Collectif de jeune développeurs qui propose la création de site
-           vitrine pour particuliers. Applications en Next.js et Typescript.
+           Collectif de jeune développeurs qui propose la création de site vitrine pour particuliers.
           </p>
           <img className="lock" src="https://les-devs-juniors.vercel.app/images/bachelor-cap.png" alt="LesdevsJuniorsLogo" />
+        </article>
+      </a>      <a href="https://www.educagriff.com/" target="_blank">
+        <article className="projet">
+          <h3>Educagriff</h3>
+          <p>
+           Réalisation autonome pour un client d’un site vitrine en Next.js avec une interface administrateur.
+          </p>
+          <img className="lock" src="../EducagriffLogo.png" alt="EducagriffLogo" />
         </article>
       </a>
     </section>

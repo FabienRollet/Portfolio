@@ -2,45 +2,53 @@ export default function TechnoCV() {
   return (
     <section className="bg-secondary-color p-8 techno">
       <h2 className="technotitle">Technologies & CV</h2>
-      <section className="front">
+      <article className="front">
         <h3>Front-end</h3>
         <ul>
-          <article>
+          <li>
             <img src="../react.png" alt="" />
-            <li>React</li>
-          </article>
-          <article>
+            <p>React</p>
+          </li>
+          <li>
             <img src="../js.png" alt="" />
-            <li>JavaScript</li>
-          </article>
-          <article>
+            <p>JavaScript</p>
+          </li>
+          <li>
             <img src="../htmlcss.png" alt="" />
-            <li>Html/CSS</li>
-          </article>
-          <article>
+            <p>Html/CSS</p>
+          </li>
+          <li>
             <img src="../tailwind.png" alt="" />
-            <li>Tailwind</li>
-          </article>
+            <p>Tailwind</p>
+          </li>
+          <li>
+            <img src="../next.png" alt="" />
+            <p>Next.js</p>
+          </li>
         </ul>
-      </section>
-      <section className="back">
+      </article>
+      <article className="back">
         <h3>Back-end</h3>
         <ul>
-          <article>
+          <li>
             <img src="../express.png" alt="" />
-            <li>ExpressJs</li>
-          </article>
-          <article>
+            <p>ExpressJs</p>
+          </li>
+          <li>
             <img src="../mysql.png" alt="" />
-            <li>MySQL</li>
-          </article>
-          <article>
+            <p>MySQL</p>
+          </li>
+          <li>
             <img src="../node.png" alt="" />
-            <li>Node.js</li>
-          </article>
+            <p>Node.js</p>
+          </li>
+          <li>
+            <img src="../postgre.png" alt="" />
+            <p>Postgre</p>
+          </li>
         </ul>
-      </section>
-      <section className="soft">
+      </article>
+      <article className="soft">
         <h3>Soft skills</h3>
         <ul>
           <li>Inventif</li>
@@ -50,8 +58,12 @@ export default function TechnoCV() {
           <li>Autonome</li>
           <li>Méthodique</li>
         </ul>
-      </section>
-      <a href="../CV Rollet Fabien.pdf" download="CV Rollet Fabien" className="cv">
+      </article>
+      <a
+        href="../CV Rollet Fabien.pdf"
+        download="CV Rollet Fabien"
+        className="cv"
+      >
         Téléchargez mon CV !
       </a>
     </section>
